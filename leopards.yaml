@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Dooli
 
+<<<<<<< HEAD
 president: Andy
+=======
+president: Mike
+>>>>>>> 0a0dd46cce3f16cb1575c5b80b8284b91b1c0671
 
 coach: Lupi
 
